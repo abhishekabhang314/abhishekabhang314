@@ -9,4 +9,4 @@
   - Anything that blends **technology and creativity**  
 - 🎯 **Goals**: To create user-friendly digital solutions and contribute to the developer community.  
 - 📫 **Let's Connect**:  
-  - [LinkedIn](www.linkedin.com/in/abhishekabhang)
+  - [LinkedIn](https://www.linkedin.com/in/abhishekabhang)
